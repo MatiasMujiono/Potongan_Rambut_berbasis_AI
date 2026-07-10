@@ -1,0 +1,1 @@
+ALTER TABLE `hairstyle` ADD `spesifikasi` json;
